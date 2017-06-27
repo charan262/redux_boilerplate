@@ -1,0 +1,16 @@
+.rectangle {
+  height: 400px;
+  width: 200px;
+  border: 1px solid red;
+  margin: 5px;
+  padding: 0px;
+  display: inline-block; }
+
+.heading {
+  background: green;
+  text-align: center;
+  margin-top: 0px;
+  height: 30px;
+  padding: 5px; }
+
+/*# sourceMappingURL=index.css.map */
